@@ -1,1 +1,3 @@
 Exemplos de codificação de testes unitarios e integrados
+1a versao - mapeando os cenarios
+
