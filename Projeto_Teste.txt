@@ -4,3 +4,4 @@ Versão inicial de cenarios
 2a item de Cenarios de validacao de apolices
 3a item de Cenarios de Seguro de Carro
 4a item de Cenarios de validacao limites
+5a item de Cenarios de Cobertura
