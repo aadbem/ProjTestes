@@ -1,5 +1,6 @@
-Exemplos de codificaÁ„o de testes unitarios e integrados
-Vers„o inicial de cenarios
+Exemplos de codifica√ß√£o de testes unitarios e integrados
+Vers√£o inicial de cenarios
 1a item de Cenarios de inclusao de apolices
 2a item de Cenarios de validacao de apolices
+3a item de Cenarios de validacao limites
 
