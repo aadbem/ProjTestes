@@ -1,3 +1,5 @@
 Exemplos de codificação de testes unitarios e integrados
-1a versao - mapeando os cenarios
+Versão inicial de cenarios
+1a item de Cenarios de inclusao de apolices
+2a item de Cenarios de validacao de apolices
 
