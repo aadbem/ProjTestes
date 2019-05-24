@@ -2,4 +2,5 @@ Exemplos de codificação de testes unitarios e integrados
 Versão inicial de cenarios
 1a item de Cenarios de inclusao de apolices
 2a item de Cenarios de validacao de apolices
+3o item de Cenarios de Seguro de Carro
 
