@@ -7,3 +7,4 @@ Versão inicial de cenarios
 5a item de Cenarios de Cobertura
 
 Inclusão do arquivo Cenario3
+Inclusao do arquivo Cenario4 (develop)
