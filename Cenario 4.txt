@@ -1,2 +1,4 @@
 Cenario de Validacao de apolices
+incluido merge na linha
 inclusao na master para testarmos branch merge
+inclusao no develop (ajuste merge)
