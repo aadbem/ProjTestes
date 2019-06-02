@@ -10,5 +10,5 @@ Inclusão do arquivo Cenario3
 Inclusão do arquivo Cenario4 (teste merge Branch -ajustado merge)
 Inclusao do arquivo Cenario4 (develop - ajustado merge)
 
-6o item de Cenarios validacao user
-7o item de Cenarios validacao corretor
+6o item de Cenarios validacao user novo corretor
+7o item de Cenarios validacao user novo segurado
