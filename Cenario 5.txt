@@ -1,0 +1,3 @@
+Cenario de Validacao de corretores
+Inclusao de novo cenario
+
